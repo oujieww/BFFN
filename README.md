@@ -5,6 +5,8 @@ this project is for our paper "Improving Chinese Sentiment Analysis based on Bil
 full code is coming soon.
 
 
-'''
-python FusionCode-commited.py
+'''python
+1. conda create --name bffn --file ./requirements.txt
+
+2. python FusionCode-commited.py
 '''
